@@ -1,0 +1,37 @@
+{
+  "name": "exquisite-unlimited-server",
+  "version": "1.0.0",
+  "description": "Standalone Server service",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "seed": "node seeders/seed.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMagic-Learner/Exquisite-Unlimited-Server.git"
+  },
+  "keywords": [
+    "server",
+    "apollo-server",
+    "mongodb"
+  ],
+  "author": "Jason Ma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JMagic-Learner/Exquisite-Unlimited-Server/issues"
+  },
+  "homepage": "https://github.com/JMagic-Learner/Exquisite-Unlimited-Server#readme",
+  "dependencies": {
+    "apollo-server": "^3.10.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "graphql": "^16.6.0",
+    "mongoose": "^6.5.2",
+    "nodemon": "^2.0.3",
+    "react-scripts": "5.0.1",
+    "save-dev": "^0.0.1-security",
+    "web-vitals": "^2.1.4"
+  }
+}

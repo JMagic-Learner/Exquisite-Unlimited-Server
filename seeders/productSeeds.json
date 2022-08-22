@@ -1,0 +1,29 @@
+[
+    {
+      "name": "Painting 1'",
+      "category": "Oil",
+      "description": "I need to explain how'",
+      "price": 50.00,
+      "serial": "EU-00001'",
+      "quantity":10,
+      "size": "15w x 15l" 
+    },
+    {
+      "name": "Painting 2",
+      "category": "Engraving",
+      "description": "This is a test value for Painting 2",
+      "price": 50.00,
+      "serial": "EU-00002'",
+      "quantity":10,
+      "size": "15w x 15l" 
+    },
+    {
+      "name": "Painting 3",
+      "category": "Contemporary",
+      "description": "This is a test value for Painting 3",
+      "price": 50.00,
+      "serial": "EU-00003'",
+      "quantity":10,
+      "size": "15w x 15l" 
+    }
+  ]
