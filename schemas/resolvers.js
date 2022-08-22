@@ -8,6 +8,9 @@ const resolvers = {
         product: async (parent, { name }) => {
             return Product.findOne({ name });
           },
+        productCategory: async (parent, {category}) => {
+            return Product.find({category})
+        },
         },
     Mutation: {
         buyProduct: async (parent, {id, quantity}, context) => {
