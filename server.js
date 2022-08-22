@@ -13,6 +13,7 @@ const {
     resolvers,
     csrfPrevention: true,
     cache: 'bounded',
+    introspection: true,
     /**
      * What's up with this embed: true option?
      * These are our recommended settings for using AS;
