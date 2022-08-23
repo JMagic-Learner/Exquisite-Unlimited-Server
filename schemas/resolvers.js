@@ -3,7 +3,7 @@ const { Product } = require('../models');
 const resolvers = {
     Query: {
         products: async () => {
-            return Product.find().sort({"_id":+1});;
+            return Product.find().sort({"pictureID":+1});;
           },
         product: async (parent, { name }) => {
             return Product.findOne({ name });
