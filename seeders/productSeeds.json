@@ -31,62 +31,122 @@
   },
   {
     "pictureID": 4,
-    "name": "Painting 4",
+    "name": "Horse Stampede",
     "category": "Engraving",
     "description": "This is a test value for Painting 2",
     "price": 50.00,
-    "serial": "EU-00002'",
+    "serial": "EU05MY9079",
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "33” x 62” x 3”" 
   },
   {
     "pictureID": 5,
-    "name": "Painting 5",
+    "name": "Taming",
     "category": "Engraving",
     "description": "This is a test value for Painting 2",
     "price": 50.00,
-    "serial": "EU-00002'",
+    "serial": "EU05MY8033",
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "42” x 50” x 6”" 
   },
   {
     "pictureID": 6,
-    "name": "Painting 6",
+    "name": "Abstract 1",
     "category": "Engraving",
     "description": "This is a test value for Painting 2",
     "price": 50.00,
-    "serial": "EU-00002'",
+    "serial": "EU05MY9009-1",
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "17 ½” x 17 ½“ x 2”" 
   },
   {
     "pictureID": 7,
-    "name": "Painting 7",
-    "category": "Contemporary",
-    "description": "This is a test value for Painting 3",
+    "name": "Abstract 2",
+    "category": "Engraving",
+    "description": "This is a test value for Painting 2",
     "price": 50.00,
-    "serial": "EU-00003'",
+    "serial": "EU05MY9009-2",
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "17 ½” x 17 ½“ x 2”" 
   },
   {
     "pictureID": 8,
-    "name": "Painting 8",
-    "category": "Contemporary",
-    "description": "This is a test value for Painting 3",
+    "name": "Abstract 3",
+    "category": "Engraving",
+    "description": "This is a test value for Painting 2",
     "price": 50.00,
-    "serial": "EU-00003'",
+    "serial": "EU05MY9009-3",
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "17 ½” x 17 ½“ x 2”" 
   },
   {
     "pictureID": 9,
-    "name": "Painting 9",
+    "name": "Abstract 4",
+    "category": "Engraving",
+    "description": "This is a test value for Painting 2",
+    "price": 50.00,
+    "serial": "EU05MY9009-4",
+    "quantity":10,
+    "size": "17 ½” x 17 ½“ x 2”" 
+  },
+  {
+    "pictureID": 8,
+    "name": "Abstract 5",
+    "category": "Engraving",
+    "description": "This is a test value for Painting 2",
+    "price": 50.00,
+    "serial": "EU05MY9009-5",
+    "quantity":10,
+    "size": "17 ½” x 17 ½“ x 2”" 
+  },
+  {
+    "pictureID": 8,
+    "name": "Engraving Vase",
+    "category": "Engraving",
+    "description": "This is a test value for Painting 2",
+    "price": 50.00,
+    "serial": "EU05MY9048-1",
+    "quantity":10,
+    "size": "15 x 20” x 2 ½"
+  },
+  {
+    "pictureID": 9,
+    "name": "Engraving Vase 2",
+    "category": "Engraving",
+    "description": "This is a test value for Painting 2",
+    "price": 50.00,
+    "serial": "EU05MY9048-2",
+    "quantity":10,
+    "size": "15 x 20” x 2 ½" 
+  },
+  {
+    "pictureID": 10,
+    "name": "Engraving Vase 3",
     "category": "Contemporary",
     "description": "This is a test value for Painting 3",
     "price": 50.00,
-    "serial": "EU-00003'",
+    "serial": "EU05MY9048-3",
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "15 x 20” x 2 ½"
+  },
+  {
+    "pictureID": 11,
+    "name": "Engraving Vase 4",
+    "category": "Contemporary",
+    "description": "This is a test value for Painting 3",
+    "price": 50.00,
+    "serial": "EU05MY9048-4",
+    "quantity":10,
+    "size": "15 x 20” x 2 ½"
+  },
+  {
+    "pictureID": 12,
+    "name": "Engraving Vase 5",
+    "category": "Contemporary",
+    "description": "This is a test value for Painting 3",
+    "price": 50.00,
+    "serial": "EU05MY9048-5",
+    "quantity":10,
+    "size": "15 x 20” x 2 ½"
   }
 ]
