@@ -8,7 +8,7 @@ const typeDefs = gql`
     name: String
     description: String
     price: Int
-    serial: Array
+    serial: [String]
     quantity: Int
     size: String
   }
