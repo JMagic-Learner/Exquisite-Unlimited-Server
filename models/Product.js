@@ -25,9 +25,9 @@ const productSchema = new Schema({
     required: true,
     trim: true,
   },
-   serial: {
-    type: String,
-    required: true,
+  serial : { 
+    type : Array , 
+    "default" : [] 
   },
   quantity: {
     type: Number,

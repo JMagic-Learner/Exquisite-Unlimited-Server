@@ -1,53 +1,53 @@
 [
   {
-    "pictureID": 1,
-    "name": "Rustic Catalogue #1",
+"pictureID": 1,
+    "name": "Landscape Catalogue #1",
     "category": "Oil",
     "description": "Countryside1",
-    "price": 50.00,
-    "serial": "NA",
+    "price": 85.00,
+    "serial": ["KN1 013", "KNI 017", "KNI 020", "KNI 021", "KNI 022", "KNI 024"],
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "32 x 32" 
   },
   {
     "pictureID": 2,
-    "name": "Rustic Catalogue #2'",
+    "name": "Landscape Catalogue #2",
     "category": "Oil",
     "description": "Countryside2",
-    "price": 50.00,
-    "serial": "NA",
+    "price": 85.00,
+    "serial": ["KN1 026", "KNI 028", "KNI 029", "KNI 033", "KNI 038", "KNI 040"],
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "32 x 32" 
   },
   {
     "pictureID": 3,
-    "name": "Rustic Catalogue #3'",
+    "name": "Landscape Catalogue #3",
     "category": "Oil",
     "description": "Countryside3",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 85.00,
+    "serial": ["KN1 063", "KNI 064", "KNI 073", "KNI 074", "KNI 075", "KNI 081"],
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "32 x 32" 
   },
   {
     "pictureID": 4,
-    "name": "Rustic Catalogue #4'",
+    "name": "Landscape Catalogue #4",
     "category": "Oil",
     "description": "Countryside4",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 85.00,
+    "serial": ["KN1 0A1", "KNI 0A2", "KNI 0A9", "KNI A10", "KNI A12", "KNI A15"],
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "32 x 32" 
   },
   {
     "pictureID": 5,
-    "name": "Rustic Catalogue #5'",
+    "name": "Landscape Catalogue #5'",
     "category": "Oil",
     "description": "Countryside5",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 85.00,
+    "serial": ["KN1 A16", "KNI A18", "KNI A27", "KNI A29", "KNI A36", "KNI A56"],
     "quantity":10,
-    "size": "15w x 15l" 
+    "size": "32 x 32" 
   },
   {
     "pictureID": 6,
@@ -55,17 +55,17 @@
     "category": "Oil",
     "description": "Flower1",
     "price": 50.00,
-    "serial": "EU-00001'",
+    "serial": ["FLO 002", "FLO 009", "FLO 023", "FLO 026", "FLO 027", "FLO 044"],
     "quantity":10,
     "size": "15w x 15l" 
   },
   {
     "pictureID": 7,
-    "name": "Abstract Catalogue",
+    "name": "Abstract Western Mask Catalogue",
     "category": "Engraving",
     "description": "Abstract",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 35.00,
+    "serial": ["EU05MY 9009-1", "EU05MY 9009-2", "EU05MY 9009-3" , "EUM05MY 9009-4", "EU05MY 9009-5", "EU05MY 9009-6"],
     "quantity":10,
     "size": "17 ½” x 17 ½“ x 2”" 
   },
@@ -74,130 +74,119 @@
     "name": "Ballerina Catalogue",
     "category": "Engraving",
     "description": "Ballerina",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 98.00,
+    "serial": ["EU05MY 8026-1", "EU05MY 8026-2", "EU05MY 8026-3"],
     "quantity":10,
     "size": "28” x 31” x 3”" 
   },
   {
     "pictureID": 9,
-    "name": "Flowers Catalogue #1",
+    "name": "Small Flowers",
     "category": "Engraving",
     "description": "FlowerEmerald",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 11.00,
+    "serial": ["EU05MY 9110-1", "EU05MY 9110-2", "EU05MY 9110-3", "EU05MY 9110-4", "EU05MY 9110-5", "EU05MY 9110-6"],
     "quantity":10,
-    "size": "23” x 31 ½” x 2 ½" 
+    "size": "13 x 15 x 1" 
   },
   {
     "pictureID": 10,
-    "name": "Flowers Catalogue #2",
+    "name": "Small Flowers #2",
     "category": "Engraving",
     "description": "FlowerEmerald2",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 11.00,
+    "serial": ["EU05MY 9110-7","EU05MY 9110-8", "EU05MY 9110-9", "EU05MY 9110-10"],
     "quantity":10,
-    "size": "23” x 31 ½” x 2 ½" 
+    "size": "13 x 15 x 1" 
   },
   {
     "pictureID": 11,
-    "name": "Flowers Catalogue #3",
+    "name": "Flowers Ornate #1",
     "category": "Engraving",
     "description": "FlowerVase",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 69.00,
+    "serial": ["EU05MY 8023A-1", "EU05MY 8023A-2", "EU05MY 8023A-3", "EU05MY 8023A-4"],
     "quantity":10,
     "size": "27” x 31” x 3”"
   },
   {
     "pictureID": 12,
-    "name": "Flowers Catalogue #4",
+    "name": "Flowers Ornate #2",
     "category": "Engraving",
     "description": "FlowerVase2",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 69.00,
+    "serial": ["EU05MY 8023B-1", "EU05MY 8023B-2", "EU05MY 8023B-3", "EU05MY 8023B-4"],
     "quantity":10,
-    "size": "27” x 31” x 3”"
+    "size": "26” x 30” x 3”"
   },
   {
     "pictureID": 13,
-    "name": "Flowers Catalogue #5",
-    "category": "Engraving",
-    "description": "FlowerVase3",
-    "price": 50.00,
-    "serial": "EU-00001'",
-    "quantity":10,
-    "size": "27” x 31” x 3”"
-  },
-  {
-    "pictureID": 14,
     "name": "Horse Catalogue ",
     "category": "Engraving",
     "description": "Horses",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 199.00,
+    "serial": ["EU05MY 9079", "EU05MY 8033"],
     "quantity":10,
     "size": "33” x 62” x 3”/ 42” x 50” x 6”"
   },
   {
-    "pictureID": 15,
-    "name": "Figure Catalogue",
+    "pictureID": 14,
+    "name": "Solitary Women",
     "category": "Engraving",
     "description": "Icon",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 59.00,
+    "serial": ["EU05MY 9094-1", "EU05MY 9094-2", "EU05MY 9094-3", "EU05MY 9094-4"],
     "quantity":10,
     "size": "25” x 25” x 2 ½“"
   },
   {
-    "pictureID": 16,
+    "pictureID": 15,
     "name": "Last Supper",
     "category": "Engraving",
     "description": "LastSupper",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 199.00,
+    "serial": ["EU069MY 9081A", "EU06MY 9081B", "EU06MY 9074"],
     "quantity":10,
-    "size": "25” x 25” x 2 ½“"
+    "size": "32 x 46 x 3 /  45 x 51 x 4 / 20 x 29½ x 3"
   },
   {
-    "pictureID": 17,
+    "pictureID": 16,
     "name": "Orchestra",
     "category": "Engraving",
     "description": "Orchestra",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 59.00,
+    "serial": ["EU069MY 8029-1", "EU06MY 8029-2", "EU06MY 8029-3", "EU06My 8029-4"],
     "quantity":10,
-    "size": "25” x 25” x 2 ½“"
+    "size": "25 x 25 x 3"
   },
   {
-    "pictureID": 18,
-    "name": "Queen Catalogue #1",
+    "pictureID": 17,
+    "name": "Egyptian Beauty / Beauty & The Beast",
     "category": "Engraving",
     "description": "Queen",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 99.00,
+    "serial": ["EU05MY 9023", "EU05MY 9019"],
     "quantity":10,
     "size": "29” x 35” x 2 ½“/40” x 27” x 2 ½”"
   },
   {
-    "pictureID": 19,
-    "name": "Queen Catalogue #2",
+    "pictureID": 18,
+    "name": "Sleeping Beauty / Flowers",
     "category": "Engraving",
     "description": "Queen2",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 99.00,
+    "serial": ["EU05MY 9021", "EU05MY 8020-1", "EU05MY 8020-2"],
     "quantity":10,
-    "size": "35” x 31” x 2 ½”"
+    "size": "35” x 31” x 2 ½” / 22 x 32 x 2½”"
   },
   {
-    "pictureID": 20,
-    "name": "Vases",
+    "pictureID": 19,
+    "name": "Abstact Vases",
     "category": "Engraving",
     "description": "Vases",
-    "price": 50.00,
-    "serial": "EU-00001'",
+    "price": 35.00,
+    "serial": ["EU05MY 9048-1", "EU05MY 9048-2", "EU05MY 9048-3", "EU04MY 9084-4", "EU05MY 9048-5", "EU05MY 9048-6"],
     "quantity":10,
     "size": "15” x 20” x 2 ½”"
   }
-
 ]
