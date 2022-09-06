@@ -14,7 +14,7 @@ const typeDefs = gql`
   }
 
   type Query {
-    products(offset: Int, limit: Int): [Product]
+    products: [Product]
     product(name: String!): Product
     productCategory(category: String!): [Product]
   }

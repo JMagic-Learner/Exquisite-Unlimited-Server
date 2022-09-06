@@ -2,9 +2,8 @@ const { Product } = require('../models');
 
 const resolvers = {
     Query: {
-        products: async (parent, {offset, limit}) => {
-            return Product.find().sort({"pictureID":+1}).limit(limit)
-            
+        products: async () => {
+            return Product.find().sort({"pictureID":+1})
            
           },
         product: async (parent, { name }) => {
